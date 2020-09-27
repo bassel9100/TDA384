@@ -1,3 +1,7 @@
+/**
+Bassel Kanaan & Raphael Tournafond
+**/
+
 // Imports
 import TSim.*;
 import java.util.concurrent.Semaphore;
